@@ -68,28 +68,8 @@ These resources can be found under the `/public-resources` folder in this reposi
 
 ---
 
-## 📖 **Documentation**
-
-Complete documentation for each module and template will be provided in the `docs/` folder. Detailed guides will cover everything from setting up a project to deploying it using CI/CD pipelines.
-
----
-
-## 📬 **Contributing**
-
-Although KnightsForge is a private project, I’m open to suggestions for improvement. If you have ideas or would like to contribute to the publicly available resources, feel free to create a pull request or raise an issue!
-
----
-
-## 🔐 **License**
-
-KnightsForge is proprietary software. However, publicly shared resources in the `/public-resources` directory are available under the MIT License.
-
----
-
 ## 🌟 **Contact**
 
 For any questions or inquiries regarding KnightsForge or the public resources shared, feel free to reach out via email or open an issue on this repository.
 
 ---
-
-I hope this README provides a clear overview of your SaaS Factory! It outlines the private nature while offering some public resources and giving potential collaborators the necessary context.
