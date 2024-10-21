@@ -1,8 +1,4 @@
-Here's a draft for your GitHub README file, explaining the key elements of *KnightsForge* while emphasizing its private nature and the selective sharing of templates and resources:
-
----
-
-# KnightsForge: A Private SaaS Factory
+# KnightsForge: A SaaS Factory
 
 **Welcome to KnightsForge!**  
 KnightsForge is a private SaaS factory designed to streamline the entire process of building, launching, and scaling SaaS applications. This system curates essential resources across development, design, deployment, and marketing, allowing for rapid creation of SaaS projects with minimal friction. While this is a private venture, I will be selectively sharing public resources, including templates and tools, to support the wider developer community.
